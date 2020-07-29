@@ -1,6 +1,5 @@
 //Samuel Tran
 //CSCE 314-502
-//UIN: 825006292
 import javax.swing.JFrame;
 import java.awt.BorderLayout;
 import java.awt.Color;
